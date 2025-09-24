@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas | Back-end & Front-end`**
 
-Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistemas Para Internet no Instituto Federal de Mato Gosso do Sul, com experiência prática em projetos que utilizam tecnologias como Ruby on Rails, Python, SQL e JavaScript. Tenho foco em criar soluções eficientes e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
+Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistemas Para Internet no Instituto Federal de Mato Gosso do Sul, com experiência prática em projetos que utilizam tecnologias como React, Ruby on Rails, PHP, SQL e JavaScript. Tenho foco em criar soluções eficientes e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 <p align="left">
     <a href="https://github.com/thurjob?tab=followers">
@@ -32,6 +32,7 @@ Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistem
     <img alt="Ruby" title="Ruby" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
     <img alt="Rails" title="Rails" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
     <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="PHP" title="PHP" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
