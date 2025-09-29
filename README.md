@@ -45,13 +45,14 @@ Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistem
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="Estatísticas do GitHub de Arthur" 
     height="195px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thurjob&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=thurjob&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60"
+/>
+
   <img 
     align="left" 
     alt="Linguagens mais usadas por Arthur" 
