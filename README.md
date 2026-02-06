@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas | Back-end & Front-end`**
 
-Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistemas Para Internet no Instituto Federal de Mato Gosso do Sul, com experiência prática em projetos que utilizam tecnologias como React, Ruby on Rails, PHP, SQL e JavaScript. Tenho foco em criar soluções eficientes e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
+Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistemas Para Internet no Instituto Federal de Mato Gosso do Sul / Engenharia de Software UFBRA, com experiência prática em projetos que utilizam tecnologias como React, Ruby on Rails, PHP, SQL e JavaScript. Tenho foco em criar soluções eficientes e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 <p align="left">
     <a href="https://github.com/thurjob?tab=followers">
