@@ -40,23 +40,3 @@ Desenvolvedor em formação pelo Senac Hub Academy e cursando Superior em Sistem
     <img alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img alt="Make" title="Make" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/make.svg" />
 </p>
----
-
-### 📊 Estatísticas do GitHub
-
-<p>
-<img 
-    align="left" 
-    alt="Estatísticas do GitHub de Arthur" 
-    height="195px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thurjob&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br&cache_seconds=60"
-/>
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas por Arthur" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurjob&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" 
-  />
-</p>
